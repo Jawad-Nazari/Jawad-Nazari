@@ -32,4 +32,9 @@ Thanks for stopping by, and I look forward to connecting with you!
  <br>
  ## Some Statistics About Me
 ![Jawads' github stats](https://github-readme-stats.vercel.app/api?username=jawad-nazari&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jawad-Nazari&show_icons=true&locale=en&layout=compact" alt="Jawad Nazari" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jawad-nazari&show_icons=true&locale=en" alt="jawad nazari" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jawad-Nazari&" alt="Jawad Nazari" /></p>
 
