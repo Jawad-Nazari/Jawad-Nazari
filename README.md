@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Atif Zada</h1>
-<h3 align="left">A passionate frontend developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Jawad Nazari</h1>
+<h3 align="left">A passionate frontend developer</h3>
 <br>
 I am a student at Microverse, an online, immersive, full-time and part-time coding school that offers a remote software development program. My goal is to become a professional software developer, and I am working hard to acquire the skills and knowledge necessary to achieve that goal.
 
