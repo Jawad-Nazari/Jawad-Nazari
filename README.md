@@ -20,8 +20,8 @@ If you have any questions related to HTML, CSS and JavaScript feel free to ask m
 <br>
  
 <h2>📫 How to reach me <br></h2>
-You can reach out to me via email at Jawad.Nazari@outlook.com.
-LinkedIn profile : https://www.linkedin.com/in/jawad-nazari/
+You can reach out to me via email at Jawad.Nazari@outlook.com.<br>
+LinkedIn profile : https://www.linkedin.com/in/jawad-nazari/  <br>
 Twitter profile : https://twitter.com/Nazari_Jawad58
 <br>
  
