@@ -3,7 +3,7 @@
   Thanks for Visiting My Profile<br>
   <img src="https://profile-counter.glitch.me/Jawad-Nazari/count.svg" />
 </p>
-<h3 align="left">A passionate frontend developer</h3>
+<h3 align="left">A Passionate Frontend Developer</h3>
 <br>
 I am a student at Microverse, an online, immersive, full-time and part-time coding school that offers a remote software development program. My goal is to become a professional software developer, and I am working hard to acquire the skills and knowledge necessary to achieve that goal.
 
@@ -31,5 +31,5 @@ Thanks for stopping by, and I look forward to connecting with you!
  ####
  <br>
  ## Some Statistics About Me
-![Jawads' github stats](https://github-readme-stats.vercel.app/api?username=Jawad-Nazari&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
+![Mathias' github stats](https://github-readme-stats.vercel.app/api?username=jawad-nazari&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
 
