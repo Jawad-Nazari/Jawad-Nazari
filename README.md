@@ -30,4 +30,6 @@ When I'm not coding, I love to play game and watch football.
 Thanks for stopping by, and I look forward to connecting with you!
  ####
  <br>
+ ## Some Statistics About Me
+![Jawads' github stats](https://github-readme-stats.vercel.app/api?username=Jawad-Nazari&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
 
