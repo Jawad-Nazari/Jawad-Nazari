@@ -7,7 +7,7 @@
 <br>
 I am a student at Microverse, an online, immersive, full-time and part-time coding school that offers a remote software development program. My goal is to become a professional software developer, and I am working hard to acquire the skills and knowledge necessary to achieve that goal.
 
-<h2>🔭 Current Work <br></h2>
+<h2>🔭 Current Status <br></h2>
 I am currently learning Web Development at Microverse, where I am expanding my technical and soft skills.
 
  
