@@ -30,4 +30,4 @@ When I'm not coding, I love to play game and watch football.
 Thanks for stopping by, and I look forward to connecting with you!
  ####
  <br>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jawad-Nazari)](https://github.com/Jawad-Nazari/github-readme-stats)
+[![Jawad's GitHub stats](https://github-readme-stats.vercel.app/api?Jawad-Nazari)](https://github.com/anuraghazra/github-readme-stats)
