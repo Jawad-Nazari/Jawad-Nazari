@@ -31,7 +31,7 @@ Thanks for stopping by, and I look forward to connecting with you!
  
  <br>
  <br>
- ## Some Statistics About Me
+ <h2> Some Statistics About Me</h2>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jawad-Nazari&show_icons=true&locale=en&layout=compact" alt="Jawad Nazari" /></p>
 <br>
