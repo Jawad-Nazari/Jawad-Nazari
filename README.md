@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jawad Nazari</h1>
 <p align="center"> 
-  Visitor count<br>
+  Thanks for Visiting<br>
   <img src="https://profile-counter.glitch.me/Jawad-Nazari/count.svg" />
 </p>
 <h3 align="left">A passionate frontend developer</h3>
