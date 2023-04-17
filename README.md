@@ -13,14 +13,14 @@
 const aboutMe = {
   fristName: "Jawad",
   lastName: "Nazari",
-  Email: " Jawad.Nazari@outloo.com"
+  Email: " Jawad.Nazari@outloo.com",
   country: "Afghanistan",
   status: "Open to new opportunities",
-  lookingFor: "Front-end developer",
+  lookingFor: ""Front-end developer" || "Full-stack web developer",
   code: [HTML, CSS, JavaScript, Bootstrap],
   challenge: "I am honing my tecnical and professnional skills at Microverse",
-  funFacts: ['I have a computer science background and 10+ years of 
-              professional and communication skills experience at MOBY Afghanistan and the Kabul Bank, United Arab Emarat branch', 'I am able to making software solutions for small businesses']
+  funFacts: ['I have a computer science background with more thab 10+ years of 
+  professional and communication experience at MOBY Afghanistan and Kabul Bank, Dubai branch','I am able to making software solutions for small businesses']
 }
 ```
   <br>
