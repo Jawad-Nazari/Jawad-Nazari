@@ -16,7 +16,7 @@ const aboutMe = {
   Email: " Jawad.Nazari@outloo.com",
   country: "Afghanistan",
   status: "Open to new opportunities",
-  lookingFor: ""Front-end developer" || "Full-stack web developer",
+  lookingFor: "Front-end developer" || "Full-stack web developer",
   code: [HTML, CSS, JavaScript, Bootstrap],
   challenge: "I am honing my tecnical and professnional skills at Microverse",
   funFacts: ['I have a computer science background with more thab 10+ years of 
