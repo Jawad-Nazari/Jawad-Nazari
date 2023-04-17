@@ -25,8 +25,8 @@ const aboutMe = {
 ```
   <br>
   <p align="center"> 
-
- <p>Your Are Vistors <img src="https://profile-counter.glitch.me/Jawad-Nazari/count.svg" /></p>
+Your Are Vistors 
+ <img src="https://profile-counter.glitch.me/Jawad-Nazari/count.svg" /></p>
   
 ## ✨ GitHub Stats
 <br>
