@@ -28,8 +28,9 @@ const aboutMe = {
   
 ## ✨ GitHub Stats
 <br>
-
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jawad-Nazarii&label=PROFILE+VIEWS&color=336622&style=for-the-badge" alt="Jawad Nazari" /> </p>
+<div align="center">
+  <a>
+  <p align="cnenter"> <img src="https://komarev.com/ghpvc/?username=Jawad-Nazarii&label=PROFILE+VIEWS&color=336622&style=for-the-badge" alt="Jawad Nazari" /> </p>
   <a>
     <img width="45.5%" src="https://github-readme-stats.vercel.app/api?username=jawad-nazari&show_icons=true&locale=en&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true" alt="Jawad Nazari" />
   </a>
