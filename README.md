@@ -2,39 +2,84 @@
 <p align="center"> 
   Thanks for Visiting My Profile<br>
   <img src="https://profile-counter.glitch.me/Jawad-Nazari/count.svg" />
+
+<!-- ### ✨  ✨
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
+
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
+</a>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Abdul+Ali;I'm+from+Afghanistan;I'm+a+Full+Stack+Developer;ツ+Be+Welcome!+ツ)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ab-noori&label=Profile%20views&color=0e75b6&style=flat" alt="ab-noori" /> </p>
+
+## ✨About Me
+```javascript
+const abdulAliNoori = {
+  country: "Afghanistan",
+  pronouns: ["He", "Him"],
+  status: "open to new opportunities",
+  lookingFor: "Front-end developer" || "Full-stack web developer",
+  code: [PHP, JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
+          Tailwind CSS, Material UI],
+  challenge: "I am honing my tecnical and professnional skills at Microverse",
+  funFacts: ['I have a computer science background and 5+ years of 
+              professional and communication skills experience at NSIA and the Afghanistan embassy
+              in a foreign country', 'I am able to making software solutions for small businesses']
+}
+```
+  <br>
+  
+## ✨ GitHub Stats
+<br>
+<div align="center">
+  <a>
+    <img width="45.5%" src="https://github-readme-stats.vercel.app/api?username=ab-noori&show_icons=true&locale=en&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true" alt="ab-noori" />
+  </a>
+  
+  <a>
+    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ab-noori&show_icons=true&locale=en&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true" alt="ab-noori" />
+  </a>
+  
+  <a>
+    <img width="50%" 
+         src="https://github-readme-streak-stats.herokuapp.com/?user=ab-noori&theme=vue-dark&bg_color=0d1117&hide_border=true" 
+         alt="ab-noori" />
+  </a>
+</div> 
+   
+<br>
+<br>
+  
+## ✨ Languages and Tools
+<br>
+<div> 
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,figma,ps,jest,ruby,rails" />
+    </a>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,github,githubactions,php,java,react,redux,postgres,postman,tailwind,nodejs" />
+    </a>
+  </p>
+</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdul-ali-noori-384b85195/">
+    <img title="linkedin.com/in/jeffersonrpm" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
-<h3 align="left">A Passionate Frontend Developer</h3>
-<br>
-I am a student at Microverse, an online, immersive, full-time and part-time coding school that offers a remote software development program. My goal is to become a professional software developer, and I am working hard to acquire the skills and knowledge necessary to achieve that goal.
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
+</a>
 
-<h2>🔭 Current Status <br></h2>
-I am currently learning Web Development at Microverse, where I am expanding my technical and soft skills.
-
- 
-<h2>🌱 Learning <br></h2>
-As a developer, I believe that learning is a lifelong process, and I'm constantly exploring new technologies and frameworks to improve my skills. Currently, I'm focusing on Javascript.
-
- 
-<h2>💬 Ask me about <br></h2>
-If you have any questions related to HTML, CSS and JavaScript feel free to ask me. I'm always happy to help and share my knowledge.
-<br>
- 
-<h2>📫 How to reach me <br></h2>
-You can reach out to me via email at Jawad.Nazari@outlook.com <br>
-LinkedIn profile : https://www.linkedin.com/in/jawad-nazari/  <br>
-Twitter profile : https://twitter.com/Nazari_Jawad58
-<br>
- 
-<h2>⚡ Fun fact <br></h2>
-When I'm not coding, I love to play game and watch football.
-Thanks for stopping by, and I look forward to connecting with you!
- 
- <br>
- <br>
- <h2> Some Statistics About Me</h2>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jawad-Nazari&show_icons=true&locale=en&layout=compact" alt="Jawad Nazari" /></p><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jawad-nazari&show_icons=true&locale=en" alt="jawad nazari" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jawad-Nazari&" alt="Jawad Nazari" /></p><br>
-
+<!-- ![Snake animation](https://github.com/JeffersonRPM/JeffersonRPM/blob/output/github-contribution-grid-snake.svg) -->
