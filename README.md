@@ -25,12 +25,13 @@ const aboutMe = {
 ```
   <br>
   <p align="center"> 
-Your Are Vistors 
  <img src="https://profile-counter.glitch.me/Jawad-Nazari/count.svg" /></p>
+
   
 ## ✨ GitHub Stats
 <br>
 <div align="center">
+   <p align="center"> <img src="https://profile-counter.glitch.me/Jawad-Nazari&label=Profile%20views&color=0e75b6&style=flat" alt="Jawad Nazari"/> </p>
   <a>
     <img width="45.5%" src="https://github-readme-stats.vercel.app/api?username=jawad-nazari&show_icons=true&locale=en&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true" alt="ab-noori" />
   </a>
