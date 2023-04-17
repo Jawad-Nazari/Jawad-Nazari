@@ -20,7 +20,8 @@ const aboutMe = {
   code: [HTML, CSS, JavaScript, Bootstrap],
   challenge: "I am honing my tecnical and professnional skills at Microverse",
   funFacts: ['I have a computer science background with more thab 10+ years of 
-  professional and communication experience at MOBY Afghanistan and Kabul Bank, Dubai branch','I am able to making software solutions for small businesses']
+  professional and communication experience at MOBY Afghanistan and Kabul Bank, Dubai branch',
+  'I am able to making software solutions for small businesses']
 }
 ```
   <br>
