@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jawad Nazari</h1>
 <p align="center"> 
-  Thanks for Visiting My Profile<br><br>
+
   <img src="https://profile-counter.glitch.me/Jawad-Nazari/count.svg" />
 
 <!-- ### ✨  ✨
@@ -23,7 +23,10 @@
 
 ## ✨About Me
 ```javascript
-const Jawad.Nazari = {
+const aboutMe = {
+  fristName: "Jawad",
+  lastName: "Nazari",
+  Email: " Jawad.Nazari@outloo.com"
   country: "Afghanistan",
   status: "Open to new opportunities",
   lookingFor: "Front-end developer",
