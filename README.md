@@ -13,7 +13,7 @@
 const aboutMe = {
   fristName: "Jawad",
   lastName: "Nazari",
-  Email: " Jawad.Nazari@outloo.com",
+  Email: " Jawad.Nazari@outlook.com",
   country: "Afghanistan",
   status: "Open to new opportunities",
   lookingFor: "Front-end developer" || "Full-stack web developer",
