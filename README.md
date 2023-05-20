@@ -17,7 +17,7 @@ const aboutMe = {
   country: "Afghanistan",
   status: "Open to new opportunities",
   lookingFor: "Front-end developer" || "Full-stack web developer",
-  code: [HTML, CSS, JavaScript, Bootstrap],
+  code: [HTML, CSS, JavaScript, Bootstrap, React and Redux],
   challenge: "I am honing my tecnical and professnional skills at Microverse",
   funFacts: ['I have a computer science background with more than 10+ years of 
   professional and communication experience at MOBY Afghanistan and Kabul Bank, Dubai branch',
