@@ -1,6 +1,6 @@
 <div align="right">
   <p align="cnenter"> <img src="https://komarev.com/ghpvc/?username=Jawad-Nazarii&label=PROFILE+VIEWS&color=336622&style=for-the-badge" alt="Jawad Nazari" /> </p>
-<h1 align="center">Hi 👋, I'm Jawad Nazari</h1>
+<h1 align="left">Hi 👋, I'm Jawad Nazari</h1>
 </div>
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
