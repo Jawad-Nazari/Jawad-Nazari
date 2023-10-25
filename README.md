@@ -1,11 +1,10 @@
 
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jawad-Nazarii&label=PROFILE+VIEWS&color=336622&style=for-the-badge" alt="Jawad Nazari" /> </p>
 <h1 align="center">Hi 👋, I'm Jawad Nazari</h1>
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
 </a>
-
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jawad-Nazarii&label=PROFILE+VIEWS&color=336622&style=for-the-badge" alt="Jawad Nazari" /> </p>
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Welcome+To+My+Profile;I'm+a+Full+stsck+Developer)
 
 
