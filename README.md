@@ -1,5 +1,5 @@
 
-  <p align="right"> <img src="https://komarev.com/ghpvc/?username=Jawad-Nazarii&label=PROFILE+VIEWS&color=336622&style=for-the-badge" alt="Jawad Nazari" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jawad-Nazarii&label=PROFILE+VIEWS&color=336622&style=for-the-badge" alt="Jawad Nazari" /> </p>
 <h1 align="left">Hi 👋, I'm Jawad Nazari</h1>
 
 <a href="#">
