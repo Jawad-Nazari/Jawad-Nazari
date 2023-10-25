@@ -1,4 +1,4 @@
- <a>
+
   <p align="cnenter"> <img src="https://komarev.com/ghpvc/?username=Jawad-Nazarii&label=PROFILE+VIEWS&color=336622&style=for-the-badge" alt="Jawad Nazari" /> </p>
 <h1 align="center">Hi 👋, I'm Jawad Nazari</h1>
  
