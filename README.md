@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jawad Nazari</h1>
-
+  <a>
+  <p align="cnenter"> <img src="https://komarev.com/ghpvc/?username=Jawad-Nazarii&label=PROFILE+VIEWS&color=336622&style=for-the-badge" alt="Jawad Nazari" /> </p>
+  <a>
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
@@ -29,9 +31,7 @@ const aboutMe = {
 ## ✨ GitHub Stats
 <br>
 <div align="center">
-  <a>
-  <p align="cnenter"> <img src="https://komarev.com/ghpvc/?username=Jawad-Nazarii&label=PROFILE+VIEWS&color=336622&style=for-the-badge" alt="Jawad Nazari" /> </p>
-  <a>
+
     <img width="45.5%" src="https://github-readme-stats.vercel.app/api?username=jawad-nazari&show_icons=true&locale=en&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true" alt="Jawad Nazari" />
   </a>
   
